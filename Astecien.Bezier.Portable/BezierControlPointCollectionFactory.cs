@@ -22,13 +22,13 @@
 
             bezierControlPointQuartetCollectionToCreate.Add(quartet);
 
-            quartet = new BezierControlPointQuartet(
-                140, 364,
-                159, 304,
-                199, 304,
-                139, 264);
+            //quartet = new BezierControlPointQuartet(
+            //    140, 364,
+            //    159, 304,
+            //    199, 304,
+            //    139, 264);
 
-            bezierControlPointQuartetCollectionToCreate.Add(quartet);
+            //bezierControlPointQuartetCollectionToCreate.Add(quartet);
 
             //quartet = new BezierControlPointQuartet(
             //    240, 264,
