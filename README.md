@@ -4,4 +4,6 @@
 
 A small demo of a vehicle driving around a track build up from bezier curve. The track can be manipulated in real time by changing the controlpoints of the bezier curves.
 
+[![ScreenShot](https://i.vimeocdn.com/video/498229091.webp?mw=1500&q=70)](https://vimeo.com/113043809)
+
 
