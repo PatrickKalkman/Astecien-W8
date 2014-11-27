@@ -1,0 +1,7 @@
+Configuration: Release
+
+before_build:
+- nuget restore Astecien.sln
+
+build:
+verbosity: minimal
